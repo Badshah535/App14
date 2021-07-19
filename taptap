@@ -14,12 +14,12 @@
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "fbad_showStatus":"1",
-   "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_inter3":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_banner":"224705059513542_224705436180171",
+   "fb_inter1":"224705059513542_224706762846705",
+   "fb_inter2":"224705059513542_224706846180030",
+   "fb_inter3":"224705059513542_224706762846705",
+   "fb_native":"224705059513542_224706566180058",
+   "fb_nativebanner":"224705059513542_224706499513398",
    "applovin_banner":"953aeea761fb89d3",
    "applovin_interstitial":"7a6a90ec5d1a6415"
 }
